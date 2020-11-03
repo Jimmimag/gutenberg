@@ -54,7 +54,6 @@
 		"@wordpress/rich-text": "file:../rich-text",
 		"@wordpress/server-side-render": "file:../server-side-render",
 		"@wordpress/url": "file:../url",
-		"@wordpress/viewport": "file:../viewport",
 		"classnames": "^2.2.5",
 		"fast-average-color": "4.3.0",
 		"lodash": "^4.17.19",
